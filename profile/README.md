@@ -5,10 +5,12 @@
 
 The project aims to create open source, native and cross platform (Windows, Mac, Linux) alternative to EA App
 
+The project is <b>NOT</b> affiliated with Electronic Arts.
+
 <a href="https://discord.com/invite/NbuTdpKFXx"><img alt="Discord" src="https://img.shields.io/discord/1123890623586504714?logo=discord&label=Discord&style=for-the-badge">
 </a>
-
 </div>
 
-
-<div align="center"><small>Part of <a href="https://heroicgameslauncher.com">Heroic</a> family</small></div>
+<div align="center">
+Part of <a href="https://heroicgameslauncher.com">Heroic</a> family  
+</div>
